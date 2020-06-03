@@ -1,3 +1,33 @@
-p {
-  color:red;
+.title {
+  color:blueviolet; 
+}
+
+.subtitle {
+  color: blueviolet;
+}
+
+.nav {
+  background-color: aliceblue;
+  list-style-type: none;
+  text-align: center;
+  padding: 0;
+  margin: 0';
+}
+
+.call-outs-container {
+  width: 100px;
+  height: 100px;
+  border: 1px solid black;
+  display: flex;
+  Flex-flow: row wrap;
+  justify-content: space-around;
+  padding: 0;
+  margin: 0;
+  align-items: flex-start; 
+}
+
+.callout {
+  padding: 10px;
+  margin bottom: 10px;
+  flec: 1;
 }
